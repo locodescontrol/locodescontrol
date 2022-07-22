@@ -25,7 +25,7 @@
   <h1 align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locodescontrol&langs_count=5&show_icons=true&theme=radical&locale=es"width="48%">
 </a>
-
+<h1 align="center>
 <code><img height="20" alt="typescript" 
 src="https://lenguajejs.com/javascript/logo.svg">
 </code>
@@ -37,4 +37,4 @@ src="https://lenguajehtml.com/html/logo.svg">
 <code><img height="20" alt="CSS" 
 src="https://lenguajecss.com/css/logo.svg">
 </code>
-
+  </h1>
