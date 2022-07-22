@@ -5,9 +5,9 @@
 # **Sobre mi**
 
   - Mi nombre es Christofer Rodriguez 
-  - se un poco de desarrolo web
-  - tengo 17 años
-  - me gusta  [HTML](https://es.wikipedia.org/wiki/HTML), [CSS](https://es.wikipedia.org/wiki/CSS)
+  - Se desarrolo de páginas webs
+  - Tengo 17 años
+  - Me gusta  [HTML](https://es.wikipedia.org/wiki/HTML), [CSS](https://es.wikipedia.org/wiki/CSS)
   
   # **Mis páginas**
   
