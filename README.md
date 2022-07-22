@@ -24,11 +24,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=locodescontrol&theme=radical&locale=es"width="48%" >
   <h1 align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locodescontrol&langs_count=5&show_icons=true&theme=radical&locale=es"width="48%">
-<p> <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="html" 
-src="https://lenguajehtml.com/assets/logo.svg"></code>
-<code><img height="30" alt="html" 
-src="https://lenguajecss.com/css/logo.svg"></code>
+    
+<p> 
+<code><img height="20" alt="javascript" 
+           src="https://lenguajejs.com/javascript/logo.svg">
+  </code>
+<code><img height="20" alt="HTML" 
+           src="https://lenguajehtml.com/assets/logo.svg">
+  </code>
+<code><img height="30" alt="CSS" 
+           src="https://lenguajecss.com/css/logo.svg">
+  </code>
     </p>
   </h1>
 </a>
