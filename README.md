@@ -29,9 +29,11 @@
 <code><img height="30" alt="JavaScript" 
 src="https://lenguajejs.com/javascript/logo.svg">
 </code>
+    <a>
 <code><img height="30" alt="HTML" 
 src="https://lenguajehtml.com/html/logo.svg">
 </code>
+      <a>
 <code><img height="30" alt="CSS" 
 src="https://lenguajecss.com/css/logo.svg">
 </code>
