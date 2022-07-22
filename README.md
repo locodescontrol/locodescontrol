@@ -1,26 +1,53 @@
-  <br>
-  <h1 align="center"> Hola xD </h1>
-  <br>
-  
-# **Sobre mi**
+<h1 align="center">Hola 👋, soy Christofer Rodriguez</h1>
+<h3 align="center">Un apasionado desarrollador Web de Chile</h3>
 
-  - Mi nombre es Christofer Rodriguez 
-  - Se desarrolo de páginas webs
-  - Tengo 17 años
-  - Me gusta  [HTML](https://es.wikipedia.org/wiki/HTML), [CSS](https://es.wikipedia.org/wiki/CSS)
+<p align="center"> <a href="https://twitter.com/crazyfac3a" target="blank"><img src="https://img.shields.io/twitter/follow/crazyfac3a?logo=twitter&style=for-the-badge" alt="crazyfac3a" /></a> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=locodescontrol&label=Visitas%20al%20perfil&color=0e75b6&style=plastic" alt="locodescontrol" /> </p>
+
+- 🔭 Actualmente estoy trabajando en [Magmaland](discord.magmaland.me)
+
+- 🌱 Actualmente estoy aprendiendo **HTML, CSS**
+
+- 👯 I’m looking to collaborate on [Znsjznz](Jzjsjjzz)
+
+- 👨‍💻 Todos mis proyectos están disponibles en [GitHub](https://github.com/locodescontrol/)
+
+- 📝 Escribo regularmente en [HTML](https://es.wikipedia.org/wiki/HTML)
+
+- 💬 Pregúntame sobre **HTLM & CSS**
+
+- 📫 Cómo contactar conmigo **Por mis Redes sociales**
+
+- 📄 Conozca mi experiencia [GitHub](https://github.com/locodescontrol/)
+
+- ⚡ Dato curioso **Skater**
+
+<h3 align="center">Conéctese conmigo:</h3>
+<p align="center">
+<a href="https://instagram.com/loco_descontrol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="loco_descontrol" height="30" width="40" /></a>
+<a href="https://twitter.com/crazyfac3a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crazyfac3a" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/loco_descontrol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="loco_descontrol" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/svCdsb9Ex8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/svCdsb9Ex8" height="30" width="40" /></a>
+</p>
+<h3 align="center">Lenguajes y herramientas:</h3>
+<p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
+
+
+ <h3 align="center">Mis páginas</h3>
   
-  # **Mis páginas**
-  
- 
   - <a href="http://loco.locodescontrol.xyz" target="_blank">Sobre mi página</a>
   - <a href="http://magma.locodescontrol.xyz" target="_blank">Magmaland página</a>
   - <a href="http://firma.locodescontrol.xyz" target="_blank">Firma página</a>
   - <a href="http://web01.locodescontrol.xyz" target="_blank">Mi primera página</a>
   
-  
-## 🏆 Estadísticas de GitHub.
-<a href="https://github.com/locodescontrol">
-  <img src="https://github-readme-stats.vercel.app/api?username=locodescontrol&show_icons=true&theme=radical&locale=es"width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=locodescontrol&theme=radical&locale=es"width="48%" >
-  <h1 align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locodescontrol&langs_count=5&show_icons=true&theme=radical&locale=es"width="48%">
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=locodescontrol&show_icons=true&theme=radical&locale=es&layout=compact=5" alt="locodescontrol" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=locodescontrol&show_icons=true&theme=radical&locale=es" alt="lococontrol" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=locodescontrol&theme=radical" alt="lococontrol" /></p>
