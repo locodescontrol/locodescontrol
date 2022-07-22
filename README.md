@@ -27,19 +27,5 @@
 </a>
 
          <a align="center">
-  <a> 
-<code><img height="30" alt="javascript"
-           src="https://lenguajejs.com/javascript/logo.svg">
-  </code>
-    </a>
-  <a> 
-<code><img height="30" alt="HTML" 
-           src="https://lenguajehtml.com/assets/logo.svg">
-  </code>
-    <a>
-  <a> 
-<code><img height="30" alt="CSS" 
-           src="https://lenguajecss.com/css/logo.svg">
-  </code>
-  </a>
+
     </a>
