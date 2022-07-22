@@ -1,11 +1,11 @@
 
   <br>
-  <h1 align="center"> Christofer </h1>
+  <h1 align="center"> Hola xD </h1>
   <br>
 
 <h1 align="center">
   <br>
-  <p> Hola soy un JuniorDeveloperWeb y tengo 17 años estoy hace poco aprendiendo HTML y CSS </p>
+  <p> Hola soy Christofer Rodriguez JuniorDeveloperWeb y tengo 17 años estoy hace poco aprendiendo HTML y CSS </p>
   <br>
 </h1>
 
