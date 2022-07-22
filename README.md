@@ -34,7 +34,7 @@ src="https://lenguajejs.com/javascript/logo.svg"
 src="https://lenguajehtml.com/html/logo.svg">
 </code>
 <code><img height="20" alt="CSS" 
-src="https://lenguajecss.com/css/logo.svg"align="center>
+src="https://lenguajecss.com/css/logo.svg">
 </code>
 <code><img height="20" alt="JavaScript" 
 src="https://lenguajejs.com/javascript/logo.svg">
