@@ -28,7 +28,7 @@
 </a>
 <p align="center">
   <a href="https://discord.gg/q27EQAyE2z" alt="discord">
-        <img src="https://img.shields.io/discord/480068531132563476?label=chat&logo=discord"/>
+        <img src="https://img.shields.io/discord/947891164743368747?label=chat&logo=discord"/>
   </a>
   </p>
     
