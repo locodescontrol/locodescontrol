@@ -21,6 +21,6 @@
 <a href="https://github.com/locodescontrol">
   <img src="https://github-readme-stats.vercel.app/api?username=locodescontrol&show_icons=true&theme=radical&locale=es"width="48%" align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=locodescontrol&theme=radical&locale=es" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locodescontrol&langs_count=8&show_icons=true&theme=radical&locale=es" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedPlayer1890&langs_count=8&show_icons=true&theme=radical&locale=es" width="48%">
   
 </a>
