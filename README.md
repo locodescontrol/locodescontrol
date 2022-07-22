@@ -26,12 +26,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locodescontrol&langs_count=5&show_icons=true&theme=radical&locale=es"width="48%">
 </a>
   <p>
-<code><img height="20" alt="JavaScript" 
+<code><img height="30" alt="JavaScript" 
 src="https://lenguajejs.com/javascript/logo.svg">
 </code>
-<code><img height="20" alt="HTML" 
+<code><img height="30" alt="HTML" 
 src="https://lenguajehtml.com/html/logo.svg">
 </code>
-<code><img height="20" alt="CSS" 
+<code><img height="30" alt="CSS" 
 src="https://lenguajecss.com/css/logo.svg">
 </code>
