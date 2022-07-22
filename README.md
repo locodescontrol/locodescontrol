@@ -12,7 +12,9 @@
   # **Mis páginas**
   
   <li>
-  <a href="http://loco.locodescontrol.xyz" target="_blank">Mi Página</a>
+   <a href="http://loco.locodescontrol.xyz" target="_blank">Sobre mi página</a>
+   <a href="http://magma.locodescontrol.xyz" target="_blank">Magmaland página</a>
+   <a href="http://firma.locodescontrol.xyz" target="_blank">Firma página</a>
   </li>
   
 ## 🏆 Estadísticas de GitHub.
