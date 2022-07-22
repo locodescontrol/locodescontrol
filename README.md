@@ -27,7 +27,7 @@
 <p> <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="html" 
 src="https://lenguajehtml.com/assets/logo.svg"></code>
-<code><img height="10" alt="html" 
+<code><img height="30" alt="html" 
 src="https://lenguajecss.com/css/logo.svg"></code>
     </p>
   </h1>
