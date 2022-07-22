@@ -1,8 +1,7 @@
-<h1 align="center">
+
   <br>
-  <h1> Christofer </h1>
+  <h1 align="center"> Christofer </h1>
   <br>
-</h1>
 
 <h1 align="center">
   <br>
