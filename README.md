@@ -9,7 +9,7 @@
   - se un poco de desarrolo web
   - tengo 17 años
   - me gusta  [HTML](https://es.wikipedia.org/wiki/HTML), [CSS](https://es.wikipedia.org/wiki/CSS)
-  </br>
+  <br>
 </h1>
 
 ## 🏆 Estadísticas de GitHub.
