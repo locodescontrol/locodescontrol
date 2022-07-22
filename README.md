@@ -5,7 +5,10 @@
 
 <h1 align="center">
   <br>
-  <p> Hola soy Christofer Rodriguez <p>soy un Developer Web</p> <p>tengo 17 años estoy hace poco aprendiendo HTML y CSS </p>
+  <p>-Mi nombre es Christofer Rodriguez 
+  <p>- se un poco de desarroloweb</p> 
+  <p>- tengo 17 años</p>
+  <p>- me gusta  [HTML](https://es.wikipedia.org/wiki/HTML)
   <br>
 </h1>
 
