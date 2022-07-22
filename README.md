@@ -15,6 +15,7 @@
   - <a href="http://loco.locodescontrol.xyz" target="_blank">Sobre mi página</a>
   - <a href="http://magma.locodescontrol.xyz" target="_blank">Magmaland página</a>
   - <a href="http://firma.locodescontrol.xyz" target="_blank">Firma página</a>
+  - <a href="http://web01.locodescontrol.xyz" target="_blank">Mi primera página</a>
   
   
 ## 🏆 Estadísticas de GitHub.
