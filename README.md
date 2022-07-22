@@ -4,13 +4,12 @@
   <br>
 
 <h1 align="center">
+ 
+  -Mi nombre es Christofer Rodriguez 
+  - se un poco de desarroloweb</p> 
+  - tengo 17 años</p>
+  - me gusta  [HTML](https://es.wikipedia.org/wiki/HTML),<p>
   <br>
-  <p>-Mi nombre es Christofer Rodriguez 
-  <p>- se un poco de desarroloweb</p> 
-  <p>- tengo 17 años</p>
-  <p>- me gusta  [HTML](https://es.wikipedia.org/wiki/HTML)
-  <br>
-</h1>
 
 ## 🏆 Estadísticas de GitHub.
 <a href="https://gihub.com/RedPlayer1890">
