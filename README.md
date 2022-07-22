@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=locodescontrol&label=Visitas%20al%20perfil&color=0e75b6&style=plastic" alt="locodescontrol" /> </p>
 
-- 🔭 Actualmente estoy trabajando en [Magmaland](discord.magmaland.me)
+- 🔭 Actualmente tengo el proyecto [Magmaland](discord.magmaland.me)
 
 - 🌱 Actualmente estoy aprendiendo **HTML, CSS**
 
