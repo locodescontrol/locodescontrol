@@ -25,20 +25,20 @@
   <h1 align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locodescontrol&langs_count=5&show_icons=true&theme=radical&locale=es"width="48%">
     
-<h1> 
+<div> 
 <code><img height="30" alt="javascript"
            src="https://lenguajejs.com/javascript/logo.svg">
   </code>
-    </j1>
-  <h1> 
+    </div>
+  <div> 
 <code><img height="30" alt="HTML" 
            src="https://lenguajehtml.com/assets/logo.svg">
   </code>
-    </h1>
-  <h1> 
+    </div>
+  <div> 
 <code><img height="30" alt="CSS" 
            src="https://lenguajecss.com/css/logo.svg">
   </code>
-  </h1>
+  </div>
   </h1>
 </a>
