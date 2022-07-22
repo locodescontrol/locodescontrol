@@ -1,7 +1,8 @@
-
   <br>
   <h1 align="center"> Hola xD </h1>
   <br>
+  
+# **Sobre mi**
 
   - Mi nombre es Christofer Rodriguez 
   - se un poco de desarrolo web
