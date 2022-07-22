@@ -5,10 +5,10 @@
 
 <h1 align="center">
  
-  -Mi nombre es Christofer Rodriguez 
-  - se un poco de desarroloweb</p> 
-  - tengo 17 años</p>
-  - me gusta  [HTML](https://es.wikipedia.org/wiki/HTML), [CSS](https://es.wikipedia.org/wiki/CSS)<p>
+  <p> -Mi nombre es Christofer Rodriguez </p>
+  <p> - se un poco de desarrolo web</p> 
+  <p> - tengo 17 años</p>
+  <p> - me gusta  [HTML](https://es.wikipedia.org/wiki/HTML), [CSS](https://es.wikipedia.org/wiki/CSS)</p>
   <br>
 
 ## 🏆 Estadísticas de GitHub.
