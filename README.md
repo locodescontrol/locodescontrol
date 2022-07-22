@@ -10,7 +10,7 @@
   - me gusta  [HTML](https://es.wikipedia.org/wiki/HTML), [CSS](https://es.wikipedia.org/wiki/CSS)
   
   <li>
-  <a href="http://loco.locodescontrol.xyz">Mi Página</a>
+  <a href="http://loco.locodescontrol.xyz" target="_blank" >Mi Página</a>
   </li>
   
 ## 🏆 Estadísticas de GitHub.
