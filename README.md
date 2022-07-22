@@ -23,6 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=locodescontrol&show_icons=true&theme=radical&locale=es"width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=locodescontrol&theme=radical&locale=es"width="48%" >
   <h1 align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locodescontrol&langs_count=3&show_icons=true&theme=radical&locale=es"width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locodescontrol&langs_count=4&show_icons=true&theme=radical&locale=es"width="48%">
   </h1>
 </a>
