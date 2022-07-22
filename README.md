@@ -9,7 +9,10 @@
   - tengo 17 años
   - me gusta  [HTML](https://es.wikipedia.org/wiki/HTML), [CSS](https://es.wikipedia.org/wiki/CSS)
   
-
+  <li>
+  <a href="http://loco.locodescontrol.xyz">Mi Página</a>
+  </li>
+  
 ## 🏆 Estadísticas de GitHub.
 <a href="https://github.com/locodescontrol">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=locodescontrol&show_icons=true&include_all_commits=false&theme=vision-friendly-dark&count_private=true" width="48%" align="left">
