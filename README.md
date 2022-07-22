@@ -3,13 +3,13 @@
   <h1 align="center"> Hola xD </h1>
   <br>
 
-<h1 align="center">
- 
+<h1>
+  <br>
   -Mi nombre es Christofer Rodriguez 
   - se un poco de desarrolo web
   - tengo 17 años
   - me gusta  [HTML](https://es.wikipedia.org/wiki/HTML), [CSS](https://es.wikipedia.org/wiki/CSS)
-  <br>
+  </br>
 </h1>
 
 ## 🏆 Estadísticas de GitHub.
