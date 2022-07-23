@@ -26,7 +26,7 @@
 <a href="https://instagram.com/loco_descontrol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="loco_descontrol" height="30" width="40" /></a>
 <a href="https://twitter.com/crazyfac3a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crazyfac3a" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/loco_descontrol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="loco_descontrol" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/svCdsb9Ex8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/svCdsb9Ex8" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/svCdsb9Ex8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/svCdsb9Ex8" height="35" width="45" /></a>
 </p>
 <h3 align="center">Lenguajes y herramientas:</h3>
 <p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a>
