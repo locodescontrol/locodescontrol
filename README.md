@@ -8,9 +8,7 @@
 - 🔭 Actualmente tengo el proyecto [Magmaland](discord.magmaland.me)
 
 - 🌱 Actualmente estoy aprendiendo **HTML, CSS**
-
-- 👯 I’m looking to collaborate on [Znsjznz](Jzjsjjzz)
-
+Ñ
 - 👨‍💻 Todos mis proyectos están disponibles en [GitHub](https://github.com/locodescontrol/)
 
 - 📝 Escribo regularmente en [HTML](https://es.wikipedia.org/wiki/HTML)
