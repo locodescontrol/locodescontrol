@@ -49,4 +49,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=locodescontrol&show_icons=true&theme=radical&locale=es&layout=compact=5" alt="locodescontrol" /></p>
 <img  src="https://github-readme-stats.vercel.app/api?username=locodescontrol&show_icons=true&theme=radical&locale=es" alt="lococontrol" /></p>
 <h1 align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=locodescontrol&theme=radical" alt="lococontrol" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=locodescontrol&theme=radical" alt="lococontrol" /></p>
