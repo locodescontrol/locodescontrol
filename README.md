@@ -40,10 +40,10 @@
 
  <h3 align="center">Mis páginas </h3>
   
-  - <a href="http://loco.locodescontrol.xyz" target="_blank" >Sobre mi página</a>
-  - <a href="http://magma.locodescontrol.xyz" target="_blank" >Magmaland página</a>
-  - <a href="http://firma.locodescontrol.xyz" target="_blank" >Firma página</a>
-  - <a href="http://web01.locodescontrol.xyz" target="_blank" >Mi primera página</a>
+  - <a href="https://locodescontrol.xyz/Error" target="_blank" >Sobre mi página</a>
+  - <a href="https://locodescontrol.xyz/Errorr" target="_blank" >Magmaland página</a>
+  - <a href="https://locodescontrol.xyz/Error" target="_blank" >Firma página</a>
+  - <a href="https://locodescontrol.xyz/Error" target="_blank" >Mi primera página</a>
   
 ## 🏆 Estadísticas de GitHub.
 <a href="https://github.com/locodescontrol">
