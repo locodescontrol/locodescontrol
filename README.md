@@ -15,7 +15,7 @@
 
 - 💬 Pregúntame sobre **HTLM & CSS**
 
-- 📫 Cómo contactar conmigo **Por mis Redes sociales**
+- 📫 Cómo contactar conmigo **[Por mis Redes sociales](https://locodescontrol.xyz)**
 
 - 📄 Conozca mi experiencia [GitHub](https://github.com/locodescontrol/)
 
