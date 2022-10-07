@@ -15,7 +15,7 @@
 
 - 💬 Pregúntame sobre **HTLM & CSS**
 
-- 📫 Cómo contactar conmigo **[Por mis Redes sociales](https://locodescontrol.xyz)**
+- 📫 Cómo contactar conmigo **[Enviandome un correo](https://locodescontrol.xyz)**
 
 
 - ⚡ Dato curioso **Se andar en patinete**
