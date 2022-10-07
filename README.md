@@ -17,9 +17,8 @@
 
 - 📫 Cómo contactar conmigo **[Por mis Redes sociales](https://locodescontrol.xyz)**
 
-- 📄 Conozca mi experiencia [GitHub](https://github.com/locodescontrol/)
 
-- ⚡ Dato curioso **Skater**
+- ⚡ Dato curioso **Se andar en patinete**
 
 <h3 align="center">Conéctese conmigo:</h3>
 <p align="center">
