@@ -9,7 +9,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **HTML, CSS**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [GitHub](https://github.com/locodescontrol/)
+- 👨‍💻 Todos mis proyectos subidos como privados a [GitHub](https://github.com/locodescontrol/)
 
 - 📝 Escribo regularmente en [HTML](https://es.wikipedia.org/wiki/HTML)
 
