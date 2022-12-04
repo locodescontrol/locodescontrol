@@ -1,11 +1,11 @@
-<h1 align="center">Hola 👋, soy Christofer Rodriguez</h1>
+<h1 align="center">Hola 👋, soy Christofer Rodriguez, Alias:loco_descontrol</h1>
 <h3 align="center">Un apasionado desarrollador Web de Chile</h3>
 
 <p align="center"> <a href="https://twitter.com/crazyfac3a" target="blank"><img src="https://img.shields.io/twitter/follow/crazyfac3a?logo=twitter&style=for-the-badge" alt="crazyfac3a" /></a> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=locodescontrol&label=Visitas%20al%20perfil&color=0e75b6&style=plastic" alt="locodescontrol" /> </p>
 
-- 🔭 Actualmente tengo el proyecto [Magmaland](discord.magmaland.me)
+- 🔭 Actualmente tengo el proyecto [NINGUNO](null)
 
 - 🌱 Actualmente estoy aprendiendo **HTML, CSS**
 
@@ -13,9 +13,6 @@
 
 - 📝 Escribo regularmente en [HTML](https://es.wikipedia.org/wiki/HTML)
 
-- 💬 Pregúntame sobre **HTLM & CSS**
-
-- 📫 Cómo contactar conmigo **[Enviandome un correo](https://locodescontrol.xyz)**
 
 
 - ⚡ Dato curioso **Se andar en patinete**
