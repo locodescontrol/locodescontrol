@@ -45,3 +45,7 @@
   <h1 align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locodescontrol&langs_count=5&theme=radical&locale=es"
             width="400px">
+   
+ <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg"
+            width="1500px">
+   
