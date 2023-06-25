@@ -40,8 +40,8 @@
   - **Vacío**
 ## 🏆 Estadísticas de GitHub.
 <a href="https://github.com/locodescontrol">
-  <img src="https://github-readme-stats.vercel.app/api?username=locodescontrol&show_icons=true&theme=radical&locale=es"width="500px">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=locodescontrol&theme=radical&locale=es"width="500px" >
+  <img src="https://github-readme-stats.vercel.app/api?username=locodescontrol&show_icons=true&theme=radical&locale=es"width="400px">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=locodescontrol&theme=radical&locale=es"width="400px" >
   <h1 align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locodescontrol&langs_count=5&theme=radical&locale=es"
             width="500px">
