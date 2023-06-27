@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Christofer Rodriguez, Alias:loco_descontrol</h1>
+<h1 align="center">Hola 👋, soy Christofer Rodriguez, Alias:loco_descontrol, SkChris</h1>
 <h3 align="center">Un apasionado desarrollador Web de Chile</h3>
 
 <p align="center"> <a href="https://twitter.com/crazyfac3a" target="blank"><img src="https://img.shields.io/twitter/follow/crazyfac3a?logo=twitter&style=for-the-badge" alt="crazyfac3a" /></a> </p>
