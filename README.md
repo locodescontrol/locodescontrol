@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Christofer Rodriguez, Alias:loco_descontrol, SkChris</h1>
 <h3 align="center">Un apasionado desarrollador Web de Chile</h3>
 
-<h4>SkChris = Shadow Kode Chris </h4>
-
 <p align="center"> <a href="https://twitter.com/crazyfac3a" target="blank"><img src="https://img.shields.io/twitter/follow/crazyfac3a?logo=twitter&style=for-the-badge" alt="crazyfac3a" /></a> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=locodescontrol&label=Visitas%20al%20perfil&color=0e75b6&style=plastic" alt="locodescontrol" /> </p>
+
+<h4 aling="center">SkChris = Shadow Kode Chris </h4>
 
 - 🔭 Actualmente tengo el proyecto [NINGUNO](null)
 
