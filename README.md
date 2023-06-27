@@ -43,6 +43,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locodescontrol&langs_count=4&theme=radical&locale=es"
             width="500px">
 
+
  <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg"
             width="1500px">
    
