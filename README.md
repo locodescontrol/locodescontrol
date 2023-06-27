@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=locodescontrol&label=Visitas%20al%20perfil&color=0e75b6&style=plastic" alt="locodescontrol" /> </p>
 
-<h4 aling="center">SkChris = Shadow Kode Chris </h4>
+<h4 align="center">SkChris = Shadow Kode Chris </h4>
 
 - 🔭 Actualmente tengo el proyecto [NINGUNO](null)
 
