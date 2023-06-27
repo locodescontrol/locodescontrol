@@ -34,13 +34,13 @@
 </p>
 
 ## 🏆 Estadísticas de GitHub.
-<a href="https://github.com/locodescontrol">
-  <img src="https://github-readme-stats.vercel.app/api?username=locodescontrol&show_icons=true&theme=radical&locale=es"width="400px">
-  <img
- src="https://github-readme-streak-stats.herokuapp.com?user=locodescontrol&theme=radical&locale=es"width="400px" >
-  <h1 align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locodescontrol&langs_count=5&theme=radical&locale=es"
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=locodescontrol&show_icons=true&theme=radical&locale=es)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=locodescontrol%20&theme=radical&hide_border=true&locale=es&date_format=j%2Fn%5B%2FY%5D&hide_total_contributions=true)](https://git.io/streak-stats)
+
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locodescontrol&langs_count=4&theme=radical&locale=es"
             width="500px">
 
  <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg"
