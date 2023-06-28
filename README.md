@@ -17,7 +17,7 @@
 
 
 
-- ⚡ Dato curioso **Se andar en patinete**
+  ⚡ **Shadow Kode**
 
 <h3 align="center">Conéctese conmigo:</h3>
 <p align="center">
