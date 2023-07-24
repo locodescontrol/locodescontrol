@@ -11,11 +11,9 @@
 
 - 🌱 Actualmente estoy aprendiendo **HTML, CSS**
 
-- 👨‍💻 Todos mis proyectos subidos como privados a [GitHub](https://github.com/locodescontrol/)
+- 👨‍💻 Todos mis proyectos subidos como priva [GitHub](https://github.com/locodescontrol/)
 
-- 📝 Escribo regularmente en [HTML](https://es.wikipedia.org/wiki/HTML)
-
-
+- 📝 Mira mis Dibujos en [Drive]([https://es.wikipedia.org/wiki/HTML](https://drive.google.com/drive/folders/1ibBqGTM87ZLogoU3fW706mE-4zv1rERz?usp=sharing))
 
 - ⚡ **Shadow Kode**
 
