@@ -35,8 +35,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=locodescontrol&show_icons=true&theme=radical&locale=es)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=locodescontrol%20&theme=radical&hide_border=true&locale=es&date_format=j%2Fn%5B%2FY%5D&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=locodescontrol&theme=radical&hide_border=true&locale=es&date_format=n%2Fj%5B%2FY%5D&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
 
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locodescontrol&langs_count=4&theme=radical&locale=es"
-            width="500px">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=locodescontrol&langs_count=10&locale=es&theme=radical)
