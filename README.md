@@ -32,9 +32,12 @@
 </p>
 
 ## 🏆 Estadísticas de GitHub.
-<p>
+<p align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=locodescontrol&show_icons=true&theme=radical&locale=es)
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=locodescontrol&theme=radical&hide_border=false&locale=es&date_format=n%2Fj%5B%2FY%5D&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
+
 </p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=locodescontrol&langs_count=10&locale=es&theme=radical)
