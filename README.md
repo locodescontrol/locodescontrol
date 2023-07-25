@@ -9,7 +9,7 @@
 
 - 🔭 Actualmente tengo el proyecto [NINGUNO](null)
 
-- 🌱 Actualmente estoy aprendiendo **HTML, CSS**
+- 🌱 Actualmente estoy aprendiendo **HTML, CSS, JS**
 
 - 👨‍💻 Todos mis proyectos subidos como priva [GitHub](https://github.com/locodescontrol/)
 
