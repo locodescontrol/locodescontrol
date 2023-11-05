@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Christofer Rodriguez, Alias:loco_descontrol, SkChris</h1>
+w<h1 align="center">Hola 👋, soy Christofer Rodriguez, Alias:loco_descontrol, SkChris</h1>
 <h3 align="center">Un apasionado desarrollador Web de Chile</h3>
 
 <p align="center"> <a href="https://twitter.com/crazyfac3a" target="blank"><img src="https://img.shields.io/twitter/follow/crazyfac3a?logo=twitter&style=for-the-badge" alt="crazyfac3a" /></a> </p>
@@ -33,7 +33,7 @@
 
 ## 🏆 Estadísticas de GitHub.
 <a href="https://gihub.com/locodescontrol">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=locodescontrol&show_icons=true&include_all_commits=false&theme=radical&locale=es&count_private=true" width="58%" align="left">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=locodescontrol&show_icons=true&include_all_commits=false&theme=radical&locale=es&count_private=true" width="48%" align="left">
   <img src="https://streak-stats.demolab.com?user=locodescontrol&theme=radical&hide_border=false&locale=es&date_format=n%2Fj%5B%2FY%5D&mode=weekly&hide_longest_streak=true width="48%">
   <h2 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locodescontrol&langs_count=10&locale=es&theme=radical&count_private=true"></h2>
 </a>
