@@ -7,6 +7,8 @@
 
 <h4 align="center">SkChris = Shadow Kode Chris </h4>
 
+<img src="https://raw.githubusercontent.com/locodescontrol/icons/main/497%20sin%20t%C3%ADtulo_20240214043030.png">
+
 - 🔭 Actualmente tengo el proyecto [NINGUNO](null)
 
 - 🌱 Actualmente estoy aprendiendo **HTML, CSS, JS**
