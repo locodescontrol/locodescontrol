@@ -5,37 +5,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=locodescontrol&label=Visitas%20al%20perfil&color=0e75b6&style=plastic" alt="locodescontrol" /> </p>
 
-                                                            
-                    ,'             '.                       
-                   .;c'          .,c'                       
-                   .;:,..        ....                       
-                   ...                     ..'.             
-       .,,..           ..                 ..;'              
-        .;:'..         'c..,.     .';;'.                    
-          .          '. . ..    .;c;.....      .coo,        
-                        ...'''';ll'  .....    ;KMWWx.       
-            .,,,,,,'..':clooollllc;'','..'.   ;XMMNxlo:.    
-    .,'.    ''..',;cllllllllllllloolloc..,.  .lKMMWNNWK;    
-     ..     .. .. .;lllllllolloollll:;c:::..dXWWKdcooc.     
-            .....;cllllolloolloolll;',',ll'.lOOl.           
-     ..     ....,lllloooolllllllol;.lk:,c:'. ..     .''..   
-   ,kXKo.    .,',lc'.,;:coolllllllc:::cll:;'       .',..    
-   cKNNNxcc;,'.,lo;.cd:.:olc;;;;:cloool:;'..                
-  .:ONNWWNWWWN:.:ll::c::lol:clolllllolllccc' .'..   .:c;'.  
-  .kWNWKc';:c:. .;clolollloollollllllllool;.,0NK0kxkXWWWNo  
-   .cdo,         ..',:llllllllllolllllol:'  .okkO0NMWWXOo'  
-         ..       .;lllllllllllllllllc;,',.      .oNWWXo.   
-       .;:.       ..';:clllllllcc:;'.. .:ll,      .cO00o.   
-      ....     .lkOo.  ..'.......     .;llol'    .  ...     
-         .....c0WWKl.          .....',cllllo;   .;:.        
-        :0XK0XNNNk,         .;cclllloollllll'    ..'.       
-        cKK0NWWXl.         .:ollllllllllc;:;.               
-         ...xMMK;   ';..   .:ollllllc;,:c;.                 
-            .cl,    'l:.    .:cllo:':l'...                  
-                    .;.       ..',' .'.                     
-                                                            
-                                                            
-
 <h4 align="center">SkChris = Shadow Kode Chris </h4>
 
 - 🔭 Actualmente tengo el proyecto [NINGUNO](null)
@@ -68,8 +37,3 @@
   <img src="https://streak-stats.demolab.com?user=locodescontrol&theme=radical&hide_border=false&locale=es&date_format=n%2Fj%5B%2FY%5D&mode=weekly&hide_longest_streak=true width="48%">
   <h2 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locodescontrol&langs_count=10&locale=es&theme=radical&count_private=true"></h2>
 </a>
-
-
-
-
-
