@@ -1,9 +1,60 @@
-w<h1 align="center">Hola 👋, soy Christofer Rodriguez, Alias:loco_descontrol, SkChris</h1>
+<h1 align="center">Hola 👋, soy Christofer Rodriguez, Alias:loco_descontrol, SkChris</h1>
 <h3 align="center">Un apasionado desarrollador Web de Chile</h3>
 
 <p align="center"> <a href="https://twitter.com/crazyfac3a" target="blank"><img src="https://img.shields.io/twitter/follow/crazyfac3a?logo=twitter&style=for-the-badge" alt="crazyfac3a" /></a> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=locodescontrol&label=Visitas%20al%20perfil&color=0e75b6&style=plastic" alt="locodescontrol" /> </p>
+
+                                                                                                    
+                                  .                        .                                        
+                                 .;;.                     ';.                                       
+                                 .;l:.                   'cl.                                       
+                                 .:lc:.                 ,cll'                                       
+                                 .coc:c,              .,;',c'                                       
+                                 .cl,..,'.            ..   ..                                       
+                                 .:.                                     ..,'                       
+            .'.                  ..                                   ..;:c;.                       
+             'c:;,..                   ...                            .'';:.                        
+              .:lcc:;,..               ,kd.  .,.           .,;:;.        ..                         
+               .;c'.....           ..   ;d' .ld.        .,:ll:,';'                                  
+                 ''                ;o;.  .. .'.      ..:llc;.   .',.           .'clc;.              
+                                    .,.             .:lll:.    .  .'.        'd0NWWNW0'             
+                                         ..''',,''',colo:.   .''.  .'       .dWWMMWXX0,             
+                      ...........     .,:cloooooolllllll,.  ....'.  ,'      .kWWMMMWXo..,'.         
+                    .;clllllllllc:,'':lolllolollllcclolllc:;cl:;..  ,;.      :0WMMMWKxkXNKO:        
+      .'',,,'.      .:,....',;:lllollolllllolllllllllollollllllc;'. ,c.     .:0WMMMMWNXNWNWO'       
+       .,:l:.       .,. .     ..;clllollllllllllloololllollllollc;..cl.  .;dKNMMMMWWWMMMWKx;        
+         ...        .'. ....   .,cllloolllllloolllllolllolol:,;cllccl:. ;OXWWWMMNk:';:ll;.          
+                    .'.  ,,..,,:lllllllllllllllolllllollolo:.  .':lll:. :0KNWWXd,                   
+                     .' ....clllollolllollllllllollloollll;..cx:.'lolo:. .ckOl.                     
+                     .,.  .;clolollllloollllllooloolllooc'.;0WWd.,lol;..    .        ..'''.....     
+       'cdxc.         .:,...,lllc;;cooollolloloolloloolll;.'clc;;clc,'''.             .,clc:,..     
+     .oNWMMWXc         .::''cllc.  .',;;clollolloooooolllll:;:clllllllll,            .,;,..         
+     ,KMWNNMW0:...      .;llllo, 'odol,.'lollooc;''',;:clllllllll:;;,'..             ...            
+     .:kNNXWNNN00Oxdooo:. 'lolo:.'xKKk,.,lolll;',:::;;;:lollloll:,'.....                            
+     .;xXNNWWWMWWWMWWMMN: .cololc,,;;,,:lolllc;clolloooollllllloooollllc'               .,'..       
+    .xNWNKNMMN0kkOKXXWMX:  ';;:cloollooollloooolloooollollllllollollllo;. .dkxol:,'...cxKWNXKOx;    
+     lNMWWWMMk. ...'',;.    .',:loooollooollllllllllllllllllloolllllol;.  lWMMMMWWNK0KWWNWWMMWMk.   
+     .:kNMMXk;              ':;;;;,;:lolllolllolllloolllollollllllll:'.  .oNWNWMWNWWNWMWNNWMMWXo.   
+        '::'                     .';clllllollllllllllllllllollolol:,.     .,cclodxkXMMMMWNXkc;.     
+                 ..            ':llllllollllclllllllllcccloollllc,..,,.            cXWMMWWNk;.      
+              .':;.            .,cllloollllollllllollllllllcc:'...,::lc'           .lXMWNXNW0;      
+           ..;clc'               ..';:ccclollllllllccll:;;'..    '::llll,            ;kXXKK0:       
+          ..,'''...        .:dxo;.  ....';::;;;,',,'....         'cloolol,             .'''.        
+                          ;kWWNWWk.                            .,clloooooc.      .'.                
+                        ;xXMMWNNO,                         ...,:lollolllol.      ':c;.              
+               .lddocclkXXNMMMXl.                ..';:::cccllloolllllllloc.     .';:cc,.            
+             .oXWWWWNWMMWWWWNk,                .,looollllllllllllclllcllo:.         ..'..           
+             .kMMWWMMMWWWX0Oc.                 ;llollllolloloollcclllllol.                          
+              ,xK0kd0MWWWWXl      ..          .clllollllollol:colll:,',;'                           
+                ..  :NMMMMWo      ,l,. ..     .coloolloooolll;.':lol:'.                             
+                    'OWWMWk'      ,ll:;;'      ,lllllllloc,:ll;. .,cc,.                             
+                     .,:c;.       ,lll,.        'cllllllo;..cll:.   .                               
+                                  'cc,.          ..';:lll;. .;:;.                                   
+                                  ';.                 ....                                          
+                                  ..                                                                
+                                                                                                    
+                                                                                                    
 
 <h4 align="center">SkChris = Shadow Kode Chris </h4>
 
