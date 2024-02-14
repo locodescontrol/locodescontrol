@@ -5,56 +5,36 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=locodescontrol&label=Visitas%20al%20perfil&color=0e75b6&style=plastic" alt="locodescontrol" /> </p>
 
-                                                                                                    
-                                  .                        .                                        
-                                 .;;.                     ';.                                       
-                                 .;l:.                   'cl.                                       
-                                 .:lc:.                 ,cll'                                       
-                                 .coc:c,              .,;',c'                                       
-                                 .cl,..,'.            ..   ..                                       
-                                 .:.                                     ..,'                       
-            .'.                  ..                                   ..;:c;.                       
-             'c:;,..                   ...                            .'';:.                        
-              .:lcc:;,..               ,kd.  .,.           .,;:;.        ..                         
-               .;c'.....           ..   ;d' .ld.        .,:ll:,';'                                  
-                 ''                ;o;.  .. .'.      ..:llc;.   .',.           .'clc;.              
-                                    .,.             .:lll:.    .  .'.        'd0NWWNW0'             
-                                         ..''',,''',colo:.   .''.  .'       .dWWMMWXX0,             
-                      ...........     .,:cloooooolllllll,.  ....'.  ,'      .kWWMMMWXo..,'.         
-                    .;clllllllllc:,'':lolllolollllcclolllc:;cl:;..  ,;.      :0WMMMWKxkXNKO:        
-      .'',,,'.      .:,....',;:lllollolllllolllllllllollollllllc;'. ,c.     .:0WMMMMWNXNWNWO'       
-       .,:l:.       .,. .     ..;clllollllllllllloololllollllollc;..cl.  .;dKNMMMMWWWMMMWKx;        
-         ...        .'. ....   .,cllloolllllloolllllolllolol:,;cllccl:. ;OXWWWMMNk:';:ll;.          
-                    .'.  ,,..,,:lllllllllllllllolllllollolo:.  .':lll:. :0KNWWXd,                   
-                     .' ....clllollolllollllllllollloollll;..cx:.'lolo:. .ckOl.                     
-                     .,.  .;clolollllloollllllooloolllooc'.;0WWd.,lol;..    .        ..'''.....     
-       'cdxc.         .:,...,lllc;;cooollolloloolloloolll;.'clc;;clc,'''.             .,clc:,..     
-     .oNWMMWXc         .::''cllc.  .',;;clollolloooooolllll:;:clllllllll,            .,;,..         
-     ,KMWNNMW0:...      .;llllo, 'odol,.'lollooc;''',;:clllllllll:;;,'..             ...            
-     .:kNNXWNNN00Oxdooo:. 'lolo:.'xKKk,.,lolll;',:::;;;:lollloll:,'.....                            
-     .;xXNNWWWMWWWMWWMMN: .cololc,,;;,,:lolllc;clolloooollllllloooollllc'               .,'..       
-    .xNWNKNMMN0kkOKXXWMX:  ';;:cloollooollloooolloooollollllllollollllo;. .dkxol:,'...cxKWNXKOx;    
-     lNMWWWMMk. ...'',;.    .',:loooollooollllllllllllllllllloolllllol;.  lWMMMMWWNK0KWWNWWMMWMk.   
-     .:kNMMXk;              ':;;;;,;:lolllolllolllloolllollollllllll:'.  .oNWNWMWNWWNWMWNNWMMWXo.   
-        '::'                     .';clllllollllllllllllllllollolol:,.     .,cclodxkXMMMMWNXkc;.     
-                 ..            ':llllllollllclllllllllcccloollllc,..,,.            cXWMMWWNk;.      
-              .':;.            .,cllloollllollllllollllllllcc:'...,::lc'           .lXMWNXNW0;      
-           ..;clc'               ..';:ccclollllllllccll:;;'..    '::llll,            ;kXXKK0:       
-          ..,'''...        .:dxo;.  ....';::;;;,',,'....         'cloolol,             .'''.        
-                          ;kWWNWWk.                            .,clloooooc.      .'.                
-                        ;xXMMWNNO,                         ...,:lollolllol.      ':c;.              
-               .lddocclkXXNMMMXl.                ..';:::cccllloolllllllloc.     .';:cc,.            
-             .oXWWWWNWMMWWWWNk,                .,looollllllllllllclllcllo:.         ..'..           
-             .kMMWWMMMWWWX0Oc.                 ;llollllolloloollcclllllol.                          
-              ,xK0kd0MWWWWXl      ..          .clllollllollol:colll:,',;'                           
-                ..  :NMMMMWo      ,l,. ..     .coloolloooolll;.':lol:'.                             
-                    'OWWMWk'      ,ll:;;'      ,lllllllloc,:ll;. .,cc,.                             
-                     .,:c;.       ,lll,.        'cllllllo;..cll:.   .                               
-                                  'cc,.          ..';:lll;. .;:;.                                   
-                                  ';.                 ....                                          
-                                  ..                                                                
-                                                                                                    
-                                                                                                    
+                                                            
+                    ,'             '.                       
+                   .;c'          .,c'                       
+                   .;:,..        ....                       
+                   ...                     ..'.             
+       .,,..           ..                 ..;'              
+        .;:'..         'c..,.     .';;'.                    
+          .          '. . ..    .;c;.....      .coo,        
+                        ...'''';ll'  .....    ;KMWWx.       
+            .,,,,,,'..':clooollllc;'','..'.   ;XMMNxlo:.    
+    .,'.    ''..',;cllllllllllllloolloc..,.  .lKMMWNNWK;    
+     ..     .. .. .;lllllllolloollll:;c:::..dXWWKdcooc.     
+            .....;cllllolloolloolll;',',ll'.lOOl.           
+     ..     ....,lllloooolllllllol;.lk:,c:'. ..     .''..   
+   ,kXKo.    .,',lc'.,;:coolllllllc:::cll:;'       .',..    
+   cKNNNxcc;,'.,lo;.cd:.:olc;;;;:cloool:;'..                
+  .:ONNWWNWWWN:.:ll::c::lol:clolllllolllccc' .'..   .:c;'.  
+  .kWNWKc';:c:. .;clolollloollollllllllool;.,0NK0kxkXWWWNo  
+   .cdo,         ..',:llllllllllolllllol:'  .okkO0NMWWXOo'  
+         ..       .;lllllllllllllllllc;,',.      .oNWWXo.   
+       .;:.       ..';:clllllllcc:;'.. .:ll,      .cO00o.   
+      ....     .lkOo.  ..'.......     .;llol'    .  ...     
+         .....c0WWKl.          .....',cllllo;   .;:.        
+        :0XK0XNNNk,         .;cclllloollllll'    ..'.       
+        cKK0NWWXl.         .:ollllllllllc;:;.               
+         ...xMMK;   ';..   .:ollllllc;,:c;.                 
+            .cl,    'l:.    .:cllo:':l'...                  
+                    .;.       ..',' .'.                     
+                                                            
+                                                            
 
 <h4 align="center">SkChris = Shadow Kode Chris </h4>
 
