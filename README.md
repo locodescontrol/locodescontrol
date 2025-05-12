@@ -4,9 +4,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=locodescontrol&label=Visitas%20al%20perfil&color=0e75b6&style=plastic" alt="locodescontrol" /> </p>
 
-<h4 align="center">SkChris = Shadow Kode Chris </h4>
 
-<img src="https://raw.githubusercontent.com/locodescontrol/icons/main/497%20sin%20t%C3%ADtulo_20240214043030.png">
+
+<img src="https://chrisdev.xyz/images/GatoSinFondoBlanco.png"  width="200" height="200">
 
 - 🔭 Actualmente tengo el proyecto [NINGUNO](null)
 
@@ -34,8 +34,3 @@
 </p>
 
 ## 🏆 Estadísticas de GitHub.
-<a href="https://gihub.com/locodescontrol">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=locodescontrol&show_icons=true&include_all_commits=false&theme=radical&locale=es&count_private=true" width="48%" align="left">
-  <img src="https://streak-stats.demolab.com?user=locodescontrol&theme=radical&hide_border=false&locale=es&date_format=n%2Fj%5B%2FY%5D&mode=weekly&hide_longest_streak=true width="48%">
-  <h2 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locodescontrol&langs_count=10&locale=es&theme=radical&count_private=true"></h2>
-</a>
