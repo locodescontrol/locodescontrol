@@ -7,21 +7,13 @@
 
 <img src="https://chrisdev.xyz/images/GatoSinFondoBlanco.png"  width="200" height="200">
 
-- 🔭 Actualmente tengo el proyecto [NINGUNO](null)
 
-- 🌱 Actualmente estoy aprendiendo **HTML, CSS, JS**
+- 🌱 Actualmente estoy aprendiendo **HTML, CSS, JS, NODEJS**
 
 - 👨‍💻 Todos mis proyectos subidos como priva [GitHub](https://github.com/locodescontrol/)
 
-- 📝 Mira mis Dibujos en [Drive](https://drive.google.com/drive/folders/1ibBqGTM87ZLogoU3fW706mE-4zv1rERz?usp=sharing)
-
-- ⚡ **Shadow Kode**
-
-<h3 align="center">Conéctese conmigo:</h3>
+<h3 align="center">Contactos :</h3>
 <p align="center">
-<a href="https://instagram.com/loco_descontrol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="loco_descontrol" height="30" width="40" /></a>
-<a href="https://twitter.com/crazyfac3a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crazyfac3a" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/loco_descontrol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="loco_descontrol" height="30" width="40" /></a>
 <a href="http://locodescontrol.xyz/Discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/" height="35" width="45" /></a>
 </p>
 <h3 align="center">Lenguajes y herramientas:</h3>
@@ -31,5 +23,3 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VisualStudioCode" width="40" height="40"/> </a>
 <a href="https://nodejs.org/es" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2415/PNG/512/nodejs_plain_logo_icon_146409.png" alt="node.js" width="40" height="40"/> </a>
 </p>
-
-## 🏆 Estadísticas de GitHub.
