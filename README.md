@@ -2,11 +2,7 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=locodescontrol&label=Visitas%20al%20perfil&color=0e75b6&style=plastic" alt="locodescontrol" /> </p>
-
-
-
-<img src="https://chrisdev.xyz/images/GatoSinFondoBlanco.png"  width="200" height="200">
-
+---
 
 - 🌱 Actualmente estoy aprendiendo **HTML, CSS, JS, NODEJS**
 
@@ -29,4 +25,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lincolnjota/lincolnjota/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lincolnjota/lincolnjota/output/github-contribution-grid-snake.svg">
 </picture>
+
 
