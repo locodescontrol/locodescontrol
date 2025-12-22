@@ -5,7 +5,7 @@
 
 ---
 
-- 🌱 Actualmente estoy aprendiendo **HTML, CSS, JS, NODEJS**
+- 🌱 Actualmente estoy aprendiendo **HTML, CSS, JS, NODE.JS**
 
 - 👨‍💻 Todos mis proyectos subidos como priva [GitHub](https://github.com/locodescontrol/)
 
@@ -26,6 +26,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lincolnjota/lincolnjota/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lincolnjota/lincolnjota/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 
 
