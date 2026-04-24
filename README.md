@@ -1,4 +1,4 @@
-<h1 align="center">Chris / loco_descontrol</h1>
+<h1 align="center">loco_descontrol</h1>
 
 <p align="center">
   <b>Developer focused on backend, automation and dark-styled tooling</b><br/>
