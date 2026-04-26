@@ -28,13 +28,14 @@ No me interesa llenar un perfil con humo: prefiero aprender creando, romper cosa
 
 ---
 
-## En que trabajo
+## Habilidades
 
 - Desarrollo backend con **Node.js** y **JavaScript**
 - Creacion de **APIs** e integraciones entre servicios
 - Bots de **Discord** y flujos automatizados
 - Herramientas conectadas a **OpenClaw**
 - Proyectos personales, experimentos tecnicos y utilidades para desarrollo
+- Configuración y creación de Servidores/ Networks de **MC**
 
 ---
 
