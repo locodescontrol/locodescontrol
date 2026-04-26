@@ -42,7 +42,7 @@ No me interesa llenar un perfil con humo: prefiero aprender creando, romper cosa
 ## Stack actual
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode,linux" alt="Stack actual" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,git,github,vscode,linux" alt="Stack actual" />
 </p>
 
 ---
